@@ -30,3 +30,8 @@
 <h1>Mobile</h1>
 <div align="center">
   <img width=400px src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/Mobile.png?raw=true" alt="imagem Mario Mobile"/>
+  <div align="center">
+  </div
+  <img width=400px src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/Mobile%20Formulario.png?raw=true" alt="imagem Mario Mobile formulario"/>
+  </div>
+
