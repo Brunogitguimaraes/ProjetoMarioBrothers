@@ -21,6 +21,11 @@
 <h1>Desktop</h1>  
 <div align="center">
   <img src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/WEB.png?raw=true" alt="image do Mario e Luide"/>
+</div>  
+  <div align="center">
+  <img src="<div align="center">
+  <img src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/WEB.png?raw=true" alt="image do Mario e Luide"/>
+</div>" alt="image do Mario e Luide"/>
 </div>
 <h1>Mobile</h1>
 <div align="center">
