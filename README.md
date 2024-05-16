@@ -20,7 +20,7 @@
 </ul>
 <h1>Desktop</h1>  
 <div align="center">
-  <img src="https://github.com/Brunogitguimaraes/Convert-Money/blob/main/assets/projeto-convert-money-desktop.png?raw=true" alt="image Currency converter"/>
+  <img src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/WEB.png?raw=true" alt="image do Mario e Luide"/>
 </div>
 <h1>Mobile</h1>
 <div align="center">
