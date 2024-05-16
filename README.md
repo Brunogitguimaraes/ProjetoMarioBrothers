@@ -5,7 +5,9 @@
 
 <h3>Esse foi um projeto que eu apreendi no <a href="https://aulas.devclub.com.br/login"/a>DevClub.</h3> 
   <h3>Onde foi possivel visualizar o conteúdo teorico na prática, usando essa linguagem de programação podemos por interação do usuário no site.
-  Nesse projeto foi utilizado o software vscode para desenvolvimento. E além disso pude colocar a minha criatividade a prova e também o pensamento logico.</h3>
+  Nesse projeto foi utilizado o software vscode para desenvolvimento. E além disso pude colocar a minha criatividade a prova e também o pensamento logico.
+    O software possue um formulário onde o usuário adiciona sua duvida e seus dados para contato acionado quando apertado o botão "entre em contato", podendo também ser direcionado atráves do icone do Wats App.
+  </h3>
 <br>
   
 <h1>Tecnologias usadas</h1>
