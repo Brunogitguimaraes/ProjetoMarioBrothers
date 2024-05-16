@@ -28,7 +28,7 @@
 </div>
 </div>
 <h1>Mobile</h1>
-<main display-flex>
+<main flex>
 <div align="center">
   <img width=400px src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/Mobile.png?raw=true" alt="imagem Mario Mobile"/>
   <div align="center">
