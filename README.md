@@ -25,7 +25,7 @@
 <br>  
   <div align="center">
   <img src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/WEB%20Formulario.png?raw=true" alt="imagem do Mario e Luide"/>
-</div>" alt="image do Mario e Luide"/>
+</div>"
 </div>
 <h1>Mobile</h1>
 <div align="center">
