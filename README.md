@@ -29,4 +29,4 @@
 </div>
 <h1>Mobile</h1>
 <div align="center">
-  <img width=200px src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/Mobile.png?raw=true" alt="imagem Mario Mobile"/>
+  <img width=400px src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/Mobile.png?raw=true" alt="imagem Mario Mobile"/>
