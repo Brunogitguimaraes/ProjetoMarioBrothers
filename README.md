@@ -32,35 +32,7 @@ Este projeto oferece um site interativo onde os usuários podem:
    git clone https://github.com/seu-usuario/projeto-mario.git
 Navegue até o diretório do projeto:
 
-bash
-Copiar
-cd projeto-mario
-Abra o arquivo index.html em seu navegador para visualizar o site.
-
-<h2>Dependências</h2>
-Nenhuma dependência externa é necessária além de um navegador moderno.
-
-<h2>Como Contribuir</h2>
-Faça um fork deste repositório.
-
-Crie uma branch para sua funcionalidade (git checkout -b minha-funcionalidade).
-
-Faça suas modificações.
-
-Comite suas alterações (git commit -am 'Adiciona nova funcionalidade').
-
-Envie para o repositório remoto (git push origin minha-funcionalidade).
-
-Abra um pull request.
-
-
-Agradecemos por visitar o Projeto Mario! Estamos prontos para resolver seus problemas hidráulicos com muito estilo! 🔧
-
-<h2>Tecnologias</h2>
-
-- **HTML**
-
-- **CSS**
-
-- **JavaScript**
+<div align="center">
+  <img src="https://github.com/Brunogitguimaraes/Convert-Money/blob/main/assets/projeto-convert-money-desktop.png?raw=true" alt="image Currency converter"/>
+</div>
 
