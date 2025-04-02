@@ -35,4 +35,7 @@ Navegue até o diretório do projeto:
 <div align="center">
   <img src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/WEB%20Formulario.png?raw=true"/>
 </div>
+<div>
+   <img src="https://github.com/Brunogitguimaraes/ProjetoMarioBrothers/blob/main/assets/Mobile%20Formulario.png?raw=true"
+</div>
 
